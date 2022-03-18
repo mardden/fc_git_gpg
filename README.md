@@ -2,4 +2,4 @@
 repositório com assinatura gpg
 
 
-Chave pública adicionada e github configurado!
+Chave pública adicionada e github configurado!!
